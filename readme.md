@@ -1,4 +1,4 @@
-# File Processor
+# File Processing Engine
 Application to parse and store the content of a kind of csv to `MySQL` database. Built using 
 JAVA and has highlights listed below:
 1. Parallel ingestion in DB using Executors
